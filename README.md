@@ -2,14 +2,16 @@
 
 Company Name:CODTECH IT SOLUTIONS
 
-Name :Seele Nagaraju
+Name        :Seele Nagaraju
 
-Intern ID :CT08DM707
+Intern ID   :CT08DM707
 
 Domain Name : Python Programming
 
-Duration :8 Week's
+Duration    :8 Week's
 
 Mentor Name :Neela Santhosh
 
-Discription :
+Discription :This Python script demonstrates how to use the Random Forest Classifier from the scikit-learn library to classify the Iris flower dataset. The steps include loading the data, preprocessing it, training a model, making predictions, and evaluating performance.
+
+output      :
